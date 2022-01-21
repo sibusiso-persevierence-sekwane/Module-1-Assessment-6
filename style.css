@@ -51,7 +51,7 @@ p{
     padding-top: 12px;
 }
 
-#menu{
+#menu a{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     font-weight: 800;
@@ -93,7 +93,7 @@ th{
     padding-top: 12px;
 }
 
-#buynow{
+#buynow a{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     font-weight: 800;
